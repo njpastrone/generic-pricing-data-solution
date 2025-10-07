@@ -4,6 +4,8 @@
 **Genericization Update:** 2025-10-07
 **Purpose:** Portfolio-ready version with generic data and terminology
 
+**🌐 Live Demo:** [https://generic-pricing-data-solution.streamlit.app](https://generic-pricing-data-solution.streamlit.app)
+
 ---
 
 ## 📁 New Structure

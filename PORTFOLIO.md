@@ -1,5 +1,7 @@
 # Portfolio Project Context
 
+**🌐 Live Demo:** [https://generic-pricing-data-solution.streamlit.app](https://generic-pricing-data-solution.streamlit.app)
+
 ## About This Project
 
 This is a **genericized portfolio version** of a real production application I built for a client. The original application was designed for a small international business to streamline their pricing, quoting, and invoicing processes for products sourced from multiple artisan partners worldwide.

@@ -2,6 +2,8 @@
 
 Get this app running in under 30 minutes.
 
+**🌐 Live Demo:** [https://generic-pricing-data-solution.streamlit.app](https://generic-pricing-data-solution.streamlit.app)
+
 ---
 
 ## Prerequisites

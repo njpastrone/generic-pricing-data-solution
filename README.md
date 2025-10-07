@@ -4,6 +4,8 @@ A Python/Streamlit application for managing multi-supplier tiered pricing, quote
 
 > **Note:** This is a portfolio/demo version with sample data. See [PORTFOLIO.md](PORTFOLIO.md) for more details.
 
+**🌐 Live Demo:** [https://generic-pricing-data-solution.streamlit.app](https://generic-pricing-data-solution.streamlit.app)
+
 **Status:** Production Ready | **Version:** 2.0 (Genericized Portfolio Version)
 
 ---
