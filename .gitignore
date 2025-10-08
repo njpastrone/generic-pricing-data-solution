@@ -1,5 +1,8 @@
 # Secrets and credentials - NEVER COMMIT THESE
 .streamlit/secrets.toml
+.streamlit/secrets_for_cloud.toml
+.streamlit/secrets_for_cloud_v2.toml
+
 
 # Python cache
 __pycache__/
